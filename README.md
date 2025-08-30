@@ -1,106 +1,94 @@
-<!-- Profile Header -->
-<h1 align="center">Hi, I'm Sumit Jain 👋</h1>
-<p align="center">
-  Software Development Engineer • Full-Stack Developer • Cloud & AI Enthusiast
-</p>
+<!-- Profile Banner -->
+<h1 align="center">✨ Hey, I'm <a href="https://github.com/SumiX21-beep">Sumit Jain</a> 👋</h1>
+<h3 align="center">🚀 Software Engineer | MERN Stack | AI & System Design Enthusiast</h3>
 
 <p align="center">
-  <a href="mailto:sumitjain0721@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-sumitjain0721%40gmail.com-red"></a>
-  <a href="https://www.linkedin.com/in/sumit-jain-a1642923a"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Sumit%20Jain-blue"></a>
-  <a href="https://github.com/SumiX21-beep"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-SumiX21--beep-black"></a>
-  <img alt="Profile Views" src="https://komarev.com/ghpvc/?username=SumiX21-beep&style=flat">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=2ECC71&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;DSA+%26+System+Design+Learner;Hackathon+Winner+🏆;Always+Learning+New+Things+✨" />
 </p>
 
 ---
 
-### 🚀 About Me
-Final-year B.Tech (IT, Honors in ML) student focused on MERN, DSA, and system design. Hands-on with REST APIs, OOP, Agile, and scalable product delivery. Actively targeting SDE-1 roles. Certified exposure: Infosys Springboard, Google Cloud, HackerRank.
-
-- 💻 Love building: full-stack apps, tooling for developers, and learning visualizers  
-- 🧠 Current focus: clean architectures, design patterns, and performance  
-- 🌱 Always exploring: LLM-powered features and DX improvements  
-
----
-
-### 🧩 Skills & Tools
-**Languages:** C++, JavaScript/TypeScript, Python, Java  
-**Frameworks/Libraries:** React, Node.js, Express, Three.js  
-**Databases:** MongoDB, MySQL, Firebase  
-**Tools/Concepts:** Git & GitHub, REST APIs, Postman, Agile  
-**Cloud & Certs:** Infosys Springboard, Google Cloud, HackerRank
+## 🌟 About Me
+🎓 Final-Year **B.Tech in IT (Honors in ML)**  
+💡 Passionate about **building scalable apps, clean system designs & AI-powered tools**  
+🏆 Hackathon winner, open-source contributor, and **Head Coordinator of WITheater Club**  
+💼 Currently preparing for **SDE-1 roles at top product-based companies**  
 
 ---
 
-### 🏆 Highlights
-- Winner – National-Level Hackathon (WITchar)  
-- Two-time Winner – Coder Army Nexus Online Hackathon  
-- Top 10 Selection – Smart India Hackathon (College Level)  
-- Head Coordinator – WITheater Club
+## 🚀 Skills & Tools  
 
----
-
-### 📦 Featured Projects
-
-#### 1) Ride-Sharing System Design (LLD, OOP, SOLID)
-- Implemented driver matching, pricing, status tracking, and CLI simulation  
-- Focus on clean abstractions, testability, and extensibility  
-- **Repo:** https://github.com/SumiX21-beep/Rides_Sharing-Platfrom
-<br />
-
-#### 2) AI-Powered Code Reviewer & Bug Hunter
-- MERN + Google Gemini AI to cut review time by ~60% and boost quality  
-- Secure backend with Express + LLM prompting; real-time, syntax-aware editing and AI feedback  
-- **Repo:** https://github.com/SumiX21-beep/AI_CODE_REVIEW
-<br />
-
-#### 3) DSA Visualizer (Algorithm Learning Platform)
-- Visualizes 20+ sorting & searching algorithms with React + Three.js  
-- Step-by-step execution, race mode, leaderboard; improved engagement and comprehension  
-- **Repo:** https://github.com/SumiX21-beep/DSA_Visualizer
-
-> More: Inventory system for a retail business (Java, XML, Firebase, REST); automated barcode-based tracking & analytics.  
-> **Repo:** https://github.com/SumiX21-beep/Shree_Ramdev_Enterpreises
-
----
-
-### 💼 Experience
-**Freelance Developer – Shri Ramdev Enterprises (Aug 2024 – Nov 2024)**  
-- Built an inventory system (Java, XML, Firebase, REST APIs)  
-- Improved tracking speed (~30%), reduced fulfillment errors (~15%), faster billing (~20%)  
-- Automated stock categorization (~50% efficiency gain)
-
----
-
-### 🎓 Education
-**Walchand Institute of Technology, Solapur** — B.Tech in IT (Honors in ML)  
-CGPA: 8.95/10 • 2022–Present
-
-**Maharashtra State Board (HSC)** — 87% • 2022
-
----
-
-### 📊 GitHub Stats (auto-generated)
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SumiX21-beep&show_icons=true&hide_border=true" alt="GitHub stats">
-</p>
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=SumiX21-beep&hide_border=true" alt="GitHub streak">
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SumiX21-beep&layout=compact&hide_border=true" alt="Top languages">
+<img src="https://skillicons.dev/icons?i=cpp,js,ts,python,java,react,nodejs,express,mongodb,mysql,firebase,git,postman" />
 </p>
 
 ---
 
-### 🔭 What I’m Up To
-- Building production-grade MERN services with strong testing and observability  
-- Adding LLM-powered code quality checks to dev workflows  
-- Preparing for SDE-1 interviews (DSA + System Design)
+## 🏆 Achievements
+- 🥇 **National Hackathon Winner – WITchar**  
+- 🥇 **2× Coder Army Nexus Hackathon Winner**  
+- 🏅 **Top 10 – Smart India Hackathon (College Level)**  
+- 🎭 **Head Coordinator – WITheater Club**
 
 ---
 
-### 🤝 Let’s Connect
-- 📫 Email: **sumitjain0721@gmail.com**  
-- 💼 LinkedIn: **/in/sumit-jain-a1642923a**
+## 📦 Featured Projects  
 
-> If you liked something here, consider ⭐ starring a repo. It helps more than you think!
+### 🔹 [Ride-Sharing System Design](https://github.com/SumiX21-beep/Rides_Sharing-Platfrom)  
+🛠️ C++ | SOLID Principles | Design Patterns  
+🚖 Implemented **driver matching, dynamic pricing & status tracking** with a CLI simulation.  
+
+---
+
+### 🔹 [AI-Powered Code Reviewer](https://github.com/SumiX21-beep/AI_CODE_REVIEW)  
+🧠 MERN + Google Gemini AI  
+⚡ Reduced review time by **60%**, improved bug detection, and provided **real-time AI feedback**.  
+
+---
+
+### 🔹 [DSA Visualizer](https://github.com/SumiX21-beep/DSA_Visualizer)  
+📊 React + Three.js  
+🎮 Visualizes 20+ algorithms with **step-by-step execution, leaderboard & race mode**.  
+
+---
+
+### 🔹 [Inventory System – Shri Ramdev Enterprises](https://github.com/SumiX21-beep/Shree_Ramdev_Enterpreises)  
+📦 Java + Firebase + REST APIs  
+📈 Improved stock tracking speed by **30%**, reduced errors by **15%**, automated categorization.  
+
+---
+
+## 📊 GitHub Highlights  
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=SumiX21-beep&show_icons=true&theme=tokyonight&hide_border=true" height="150"/>
+  <img src="https://streak-stats.demolab.com?user=SumiX21-beep&theme=tokyonight&hide_border=true" height="150"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SumiX21-beep&layout=compact&theme=tokyonight&hide_border=true" height="150"/>
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=SumiX21-beep&theme=algolia&margin-w=8&margin-h=8&column=6" />
+</p>
+
+---
+
+## 🎯 Currently
+- 🔭 Building **production-grade MERN apps with AI integration**  
+- 📚 Mastering **DSA + System Design for SDE-1 roles**  
+- 🌱 Exploring **LLM-powered developer tooling**  
+
+---
+
+## 📫 Connect With Me
+<p align="center">
+  <a href="mailto:sumitjain0721@gmail.com"><img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/sumit-jain-a1642923a"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://github.com/SumiX21-beep"><img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github" /></a>
+</p>
+
+---
+
+<p align="center">⭐ If you find my work useful, consider giving a star to my repos!</p>
